@@ -6,7 +6,7 @@ import Layout from "../../components/Layout/Layout";
 
 function Home() {
 	return (
-		<Layout>
+		<Layout home={true}>
 			<Container>
 				<Main />
 				<FAQ />

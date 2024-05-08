@@ -2,14 +2,15 @@ import React from "react";
 import RegisterComponent from "../../components/Register";
 import RegisterLayout from "../../components/Layout/RegisterLayout";
 import Container from "../../components/Container/Container";
+import Layout from "../../components/Layout/Layout";
 
 function Register() {
 	return (
-		<RegisterLayout>
+		<Layout register={true}>
 			<Container>
 				<RegisterComponent />
 			</Container>
-		</RegisterLayout>
+		</Layout>
 	);
 }
 
