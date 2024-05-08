@@ -1,6 +1,5 @@
 import React from "react";
 import CongratulationsComponent from "../../components/Congratulations";
-import CongratulationsLayout from "../../components/Layout/CongratulationsLayout";
 import Container from "../../components/Container/Container";
 import Layout from "../../components/Layout/Layout";
 
