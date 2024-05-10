@@ -1,6 +1,6 @@
 
 ## Deployed Link
-[Thence Assigment](https://thence-assignment-orpin.vercel.app/)
+[Thence Assignment](https://thence-assignment-orpin.vercel.app/)
 
 ## Installation Guide
 
